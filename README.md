@@ -1,3 +1,3 @@
 # space-gulag
 
-## an 'out of the world' experience
+an 'out of the world' experience
